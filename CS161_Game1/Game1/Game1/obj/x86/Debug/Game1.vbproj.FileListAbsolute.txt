@@ -1,0 +1,23 @@
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\bin\Debug\Game1.exe
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\bin\Debug\Game1.pdb
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\bin\Debug\Game1.xml
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\Game1.frmGame1.resources
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\Game1.Resources.resources
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\Game1.exe
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\Game1.xml
+E:\WINTER_2013\CS161_IntroToGameDev\Project 1\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.exe
+E:\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.xml
+E:\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.exe
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.xml
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\bin\Debug\Game1.exe
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\bin\Debug\Game1.pdb
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\bin\Debug\Game1.xml
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.frmGame1.resources
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.Resources.resources
+E:\CLASSES\WINTER_2013\CS161_IntroToGameDev\Project1_RyuM\Game1\Game1\obj\x86\Debug\Game1.vbproj.GenerateResource.Cache
