@@ -7,11 +7,11 @@ Author:&emsp;&emsp;&emsp;&nbsp;Ryu Muthui<br>
 Description:&emsp;
 A game project created to demonstrate various introductory skills in game development.
 <pre>
-- Random pixel generation on panel space
 - Apply mirror effect on images
+- Connect shapes with draw lines
 - 2D Gradient fill of panel space
-- Draw geometic shapes
-- Connect geometic shapes with draw lines
+- Random pixel generation on panel space
+- Draw shapes of circle, triangle, square, and rectangles
 </pre>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
