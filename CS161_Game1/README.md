@@ -1,18 +1,16 @@
-# CS161_Game1
+# Game1
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 161: Intro to Game Dev - Game 1<br>
+Game 1<br>
 Date:&emsp;&emsp;&emsp;&emsp;&nbsp;February 25, 2013<br>
 Author:&emsp;&emsp;&emsp;&nbsp;Ryu Muthui<br>
 Description:&emsp;
 A game project created to demonstrate various introductory skills in game development.
-<pre>
 - Apply mirror effect on images
 - Connect shapes with draw lines
 - 2D Gradient fill of panel space
 - Random pixel generation on panel space
 - Draw shapes of circle, triangle, square, and rectangles
-</pre>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![1](https://cloud.githubusercontent.com/assets/10789046/24243148/4ad37cbe-0f77-11e7-809c-9811937fa546.jpg)<br>
