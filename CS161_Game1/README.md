@@ -11,6 +11,7 @@ A game project created to demonstrate various introductory skills in game develo
 - 2D Gradient fill of panel space
 - Random pixel generation on panel space
 - Draw shapes of circle, triangle, square, and rectangles
+
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![1](https://cloud.githubusercontent.com/assets/10789046/24243148/4ad37cbe-0f77-11e7-809c-9811937fa546.jpg)<br>
